@@ -1,3 +1,3 @@
 # ulysseschill.github.io
-Hi this is me
-ayyy
+Hi nice to meet you 
+- hey
