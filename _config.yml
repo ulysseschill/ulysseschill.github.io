@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate 
 title:  Read only
-description: 立ち入り禁止
+description: 立ち入り禁止！
 plugins: 
     - jemoji 
 url: "https://ulysseschill.github.io/" 
