@@ -1,6 +1,0 @@
-theme: jekyll-theme-slate 
-title: hey # to be filled in by you
-description: nice to meet you # to be filled in by you
-plugins: - jemoji 
-url: "https://ulysseschill.github.io/" 
-markdown: kramdown
