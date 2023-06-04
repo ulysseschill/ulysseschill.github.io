@@ -3,5 +3,5 @@ title:  my website # to be filled in by you
 description: HI # to be filled in by you
 plugins: 
     - jemoji 
-url: "" 
+url: "https://ulysseschill.github.io/" 
 markdown: kramdown
