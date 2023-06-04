@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate 
 title: hey # to be filled in by you
-description: nie to mmet you # to be filled in by you
+description: nice to mmet you # to be filled in by you
 plugins: 
     - jemoji 
-url: "" 
+url: "ulysseschill.github.io/" 
 markdown: kramdown
