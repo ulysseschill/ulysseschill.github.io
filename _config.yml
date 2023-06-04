@@ -5,5 +5,5 @@ plugins:
 description: 立ち入り禁止🚧 # to be filled in by you
 plugins: 
     - jemoji 
-url: "https://ulysseschill.githubio/" 
+url: "https://ulysseschill.github.io/" 
 markdown: kramdown
