@@ -199,6 +199,7 @@ If you want to write mathematics on a page, just set `math: true` on that page t
 Just **hack** into the code and see what you can get.
 
 ## Development
+test
 
 To set up your environment to develop this theme, run `bundle install`.
 
